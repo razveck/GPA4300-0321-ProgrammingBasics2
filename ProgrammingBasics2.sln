@@ -3,7 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.31129.286
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StackAndHeap", "StackAndHeap\StackAndHeap.csproj", "{6076AD47-6A1B-40EE-84DD-4B4B215F8422}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "StackAndHeap", "StackAndHeap\StackAndHeap.csproj", "{6076AD47-6A1B-40EE-84DD-4B4B215F8422}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Properties", "Properties\Properties.csproj", "{893604B7-E227-402E-88F1-5F225A7FFBA1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Events", "Events\Events.csproj", "{2D71AE38-60AD-4885-9C0C-68F653579421}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +19,14 @@ Global
 		{6076AD47-6A1B-40EE-84DD-4B4B215F8422}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6076AD47-6A1B-40EE-84DD-4B4B215F8422}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6076AD47-6A1B-40EE-84DD-4B4B215F8422}.Release|Any CPU.Build.0 = Release|Any CPU
+		{893604B7-E227-402E-88F1-5F225A7FFBA1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{893604B7-E227-402E-88F1-5F225A7FFBA1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{893604B7-E227-402E-88F1-5F225A7FFBA1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{893604B7-E227-402E-88F1-5F225A7FFBA1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2D71AE38-60AD-4885-9C0C-68F653579421}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2D71AE38-60AD-4885-9C0C-68F653579421}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2D71AE38-60AD-4885-9C0C-68F653579421}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2D71AE38-60AD-4885-9C0C-68F653579421}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
